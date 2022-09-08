@@ -5,8 +5,6 @@ const App = () => (
   <div className="h-full w-full bg-gray-800 text-white">
     <Header />
 
-    console.log("hola");
-
     <MainContainer />
   </div>
 );
